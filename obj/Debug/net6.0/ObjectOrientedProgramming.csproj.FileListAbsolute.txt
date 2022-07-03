@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.exe
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.deps.json
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.dll
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\bin\Debug\net6.0\ObjectOrientedProgramming.pdb
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.dll
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\refint\ObjectOrientedProgramming.dll
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.pdb
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\OOPExample\ObjectOrientedProgramming\obj\Debug\net6.0\ref\ObjectOrientedProgramming.dll
